@@ -8,6 +8,6 @@
 </head>
 <body>
 <h1>Hello World!!</h1>
-<h1>Demo 2</h1>
+<h1>Freestyle</h1>
 </body>
 </html>
